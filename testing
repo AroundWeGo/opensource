@@ -1,1 +1,3 @@
-test
+_G.RandomNormalPeople = ""
+_G.RandomExtraPeople = ""
+_G.RandomExtraordinaryPeople = "CodetheScripter"
