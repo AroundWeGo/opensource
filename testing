@@ -1,1 +1,3 @@
-_G.whitelisted = "Codename"
+_G.whitelisted = {
+"Codename_87"
+}
