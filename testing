@@ -1,1 +1,3 @@
-print("V3")
+_G.whitelisted = {
+"Codename_87"
+}
