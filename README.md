@@ -1,4 +1,4 @@
--- [[
-  Project opensource is roblox exploiting development, for testing.
-  Lua Obviously.
--- ]]
+Roblox Exploiting Development
+
+This github page is for developing scripts for roblox exploiting. 
+Updating on each project.
